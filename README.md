@@ -6,4 +6,4 @@ API to list broadcast info
 
 Doc:
 
-http://localhost:8080/swagger-ui/
+After run the project got to http://localhost:8080/swagger-ui/
